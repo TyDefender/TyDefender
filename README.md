@@ -4,6 +4,8 @@
 
 - <b>AWS Projects</b>
   - [Static Website Using Amazon S3](https://github.com/TyDefender/Static-Website-Using-Amazon-S3)
+ 
+  - [Cross-Region S3 Bucket Replication](https://github.com/TyDefender/Static-Website-Using-Amazon-S3)
 
 <h2> 🤳 Connect with me:</h2>
 
