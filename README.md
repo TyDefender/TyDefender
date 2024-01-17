@@ -6,7 +6,9 @@
   - [Static Website Using Amazon S3](https://github.com/TyDefender/Static-Website-Using-Amazon-S3)
  
   - [Cross-Region S3 Bucket Replication](https://github.com/TyDefender/S3-Bucket-Replication)
-  
+
+  - [Analyze Network Traffic with tcpdump](https://github.com/TyDefender/S3-Bucket-Replication)
+
 - <b>Articles</b>
   - [The Battle for Cyber Security](https://j6solutions.co.uk/blog-1/f/data-breaches---the-battle-for-cyber-security)
 
