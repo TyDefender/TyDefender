@@ -5,7 +5,7 @@
 - <b>AWS Projects</b>
   - [Static Website Using Amazon S3](https://github.com/TyDefender/Static-Website-Using-Amazon-S3)
  
-  - [Static Website Using Amazon S3](https://github.com/TyDefender/Static-Website-Using-Amazon-S3)
+  - [Configuring and Securing a VPC](https://github.com/TyDefender/Configuring-a-VPC-in-AWS)
  
   - [Cross-Region S3 Bucket Replication](https://github.com/TyDefender/S3-Bucket-Replication)
 
