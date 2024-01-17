@@ -7,7 +7,7 @@
  
   - [Cross-Region S3 Bucket Replication](https://github.com/TyDefender/S3-Bucket-Replication)
 
-  - [Analyze Network Traffic with tcpdump](https://github.com/TyDefender/S3-Bucket-Replication)
+  - [Analyze Network Traffic with tcpdump](https://github.com/TyDefender/Analyze-Network-Traffic-with-tcpdump)
 
 - <b>Articles</b>
   - [The Battle for Cyber Security](https://j6solutions.co.uk/blog-1/f/data-breaches---the-battle-for-cyber-security)
