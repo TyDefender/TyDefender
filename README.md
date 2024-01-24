@@ -1,17 +1,5 @@
 <h1>Hi, I'm Tyler Flaherty! <br/><a href="https://github.com/TyDefender">Projects</a>, <a href="https://www.linkedin.com/in/tyflaherty0824/">Cybersecurity Professional</a>
 
-<h2>⚡ Certifications:</h2>
-
-  - CompTIA Security + CE COMP001022339421
- 
-  - ISC2 Certification in Cybersecurity 
- 
-  - AWS Certified Cloud Practitioner
-
-  - Springboard Cybersecurity Career Track Certification
-
-  - Google Tech Support Fundamentals 
-
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>AWS Projects</b>
@@ -26,6 +14,19 @@
 
 - <b>Articles</b>
   - [The Battle for Cyber Security](https://j6solutions.co.uk/blog-1/f/data-breaches---the-battle-for-cyber-security)
+ 
+<h2>⚡ Certifications:</h2>
+
+  - CompTIA Security + CE COMP001022339421
+ 
+  - ISC2 Certification in Cybersecurity 
+ 
+  - AWS Certified Cloud Practitioner
+
+  - Springboard Cybersecurity Career Track Certification
+
+  - Google Tech Support Fundamentals 
+
 
 <h2> 🤳 Connect with me:</h2>
 
