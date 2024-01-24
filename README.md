@@ -10,7 +10,7 @@
   - [Cross-Region S3 Bucket Replication](https://github.com/TyDefender/S3-Bucket-Replication)
 
 - <b>Cloudflare</b>
-  - [Resume Website with a Cloudflare domain and CDN ](https://github.com/TyDefender/Static-Website-Using-Amazon-S3)
+  - [Resume Website with a Cloudflare domain and CDN ](https://github.com/TyDefender/Securing-Resume-Static-Website-using-Cloudflare)
 
 - <b>Network Analysis</b>
   - [Analyze Network Traffic with tcpdump](https://github.com/TyDefender/Analyze-Network-Traffic-with-tcpdump)
